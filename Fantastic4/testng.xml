@@ -6,6 +6,7 @@
     <classes>
       <class name="com.qa.testLayer.HomePageTestClass"/>
       <class name ="com.qa.testLayer.LogInPageTest"/>
+      <class name ="com.qa.testLayer.ProductPageTest"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
