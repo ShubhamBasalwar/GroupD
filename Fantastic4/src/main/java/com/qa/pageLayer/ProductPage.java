@@ -23,6 +23,10 @@ public class ProductPage extends TestBaseParent{
 		{
 			System.out.println(logo.getText());
 		}
+		else
+		{
+			System.out.println("test case failed");
+		}
 	}
 
 }
